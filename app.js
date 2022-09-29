@@ -15,7 +15,8 @@ const fetchAllCountries = async () => {
     })
     
 }
-console.log(fetchAllCountries);
+
+fetchAllCountries;
 
 // const getAllCountries = async () => {
 //     const countriesUrls = [];
